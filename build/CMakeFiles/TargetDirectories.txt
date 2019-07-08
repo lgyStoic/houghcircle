@@ -1,0 +1,3 @@
+/Users/lgy/Downloads/houghcircle/build/CMakeFiles/rebuild_cache.dir
+/Users/lgy/Downloads/houghcircle/build/CMakeFiles/edit_cache.dir
+/Users/lgy/Downloads/houghcircle/build/CMakeFiles/houghcircle.dir
